@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Marvin LI"
+title                    : "Marvin Li"
 title_separator          : "-"
 name                     : &name "Marvin Li"
-description              : &description ""
+description              : &description "Hi, my name is Marvin Li"
 url                      : https://marvinfli.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marvinfli/marvinfli.github.io"
@@ -26,8 +26,8 @@ author:
   name             : "Marvin Li"
   pronouns         : # example: "she/her"  
   bio              : "AI Researcher (Harvard' 25)"
-  location         : "Cambridge, MA"
-  employer         : "Harvard College"
+  location         : 
+  employer         : 
   uri              : # URL
   email            : "marvin.fangzhou.li@gmail.com" 
 
@@ -38,16 +38,17 @@ author:
   github           : "marvinfli"
   
   # Social media
-  twitter          : "marvinli03" # Username for X / Twitter
+  linkedin         : "marvin-li-2297a8124"
+  twitter          : "marvin_li03" # Username for X / Twitter
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  manuscripts:
+    title: 'Journal Articles'    
+  workshops:
+    title: 'Workshop Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -95,6 +96,8 @@ yandex_site_verification :
 
 
 # Social Sharing
+linkedin:
+  username               : &linkedin
 twitter:
   username               : &twitter
 facebook:

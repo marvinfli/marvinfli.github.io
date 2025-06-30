@@ -9,5 +9,3 @@ venue: 'ICML 2025 Workshop on Data in Generative Models'
 paperurl: ''
 citation: 'Jeffrey Wang*, Jason Wang*, Marvin Li*, and Seth Neel. (2025). "Firm Foundations for Membership Inference Attacks Against Large Language Models." <i>ICML Workshop on Data in Generative Models</i>.'
 ---
-
-We present new theoretical guarantees and practical attacks that expose training-data leakage in state-of-the-art language models. 

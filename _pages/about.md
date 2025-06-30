@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an AI researcher thinking about the **theory and science of generative models**, especially in the context of **reinforcement learning for language models**. Earlier this year I graduated *summa cum laude* from Harvard with a B.A. in Computer Science & Mathematics.
+I'm an AI researcher straddling theory and empirics. Right now, I am working on the **theory of generative models** as well as ways to augment the **capabilities and safety of language models**. Earlier this year, I graduated *summa cum laude* from Harvard with a B.A. in Computer Science & Mathematics.
 
 My most recent project was on a unified theoretical framework for feature emergence in generative models (**ICML 2024; ICML 2025 oral**). We explained where high-level features such as reasoning accuracy and toxicity emerge during the sampling trajectories of diffusion models and large language models. This work, also presented in my [thesis](/files/thesis.pdf), was awarded both the **Hoopes Prize** for outstanding undergraduate research and the **Captain Jonathan Fay Prize**, given to the top three theses across all disciplines at Harvard College.
 

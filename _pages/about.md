@@ -9,7 +9,7 @@ redirect_from:
 
 I'm an AI researcher straddling theory and empirics. Right now, I am working on the **theory of generative models** as well as ways to augment the **capabilities and safety of language models**. Earlier this year, I graduated *summa cum laude* from Harvard with a B.A. in Computer Science & Mathematics.
 
-My most recent project was on a unified theoretical framework for feature emergence in generative models (**ICML 2024; ICML 2025 oral**). We explained where high-level features such as reasoning accuracy and toxicity emerge during the sampling trajectories of diffusion models and large language models. This work, also presented in my [thesis](/files/thesis.pdf), was awarded both the **Hoopes Prize** for outstanding undergraduate research and the **Captain Jonathan Fay Prize**, given to the top three theses across all disciplines at Harvard College.
+My most recent project was on a unified theoretical framework for feature emergence in generative models (**ICML 2024; ICML 2025 oral**). We explained where high-level features such as reasoning accuracy and toxicity emerge during the sampling trajectories of diffusion models and large language models. This work, also presented in my [thesis](/files/thesis.pdf), was awarded both the **Hoopes Prize** for outstanding undergraduate research and the [**Captain Jonathan Fay Prize**](https://www.radcliffe.harvard.edu/news-and-ideas/harvard-radcliffe-institute-awards-2025-fay-prizes-for-outstanding-theses-of-graduating-class), given to the top three theses across all disciplines at Harvard College.
 
 I love meeting new people and chatting. Please reach out at marvin[dot]fangzhou[dot]li[at]gmail.com.
 

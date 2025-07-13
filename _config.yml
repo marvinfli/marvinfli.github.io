@@ -45,8 +45,10 @@ author:
 publication_category:
   conferences:
     title: 'Conference Papers'
+  thesis:
+    title: 'Thesis'    
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'      
   workshops:
     title: 'Workshop Papers'
 

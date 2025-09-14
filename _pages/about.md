@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm an algo developer at Hudson River Trading. In the past, I have studied the **science and theory of generative models** and developing methods to enhance the **capabilities and safety of language models**. I've had the privilege of collaborating with [Prof. Sitan Chen](https://sitanchen.com/) and [Prof. Seth Neel](https://sethneel.com/). Earlier this year, I graduated *summa cum laude* with highest honors from Harvard with a B.A. in Computer Science & Mathematics.
-I am an algo developer at Hudson River Trading. 
+I'm an algo developer at Hudson River Trading. 
 
-My most recent project was on a unified theoretical framework for feature emergence in generative models (**ICML 2024; ICML 2025 oral**). In this work, we identified the mechanisms behind the emergence of high-level features, such as reasoning accuracy and toxicity, during the sampling trajectories of diffusion models and large language models. This work, detailed in my [thesis](/files/thesis.pdf), was recognized with both the **Hoopes Prize** for outstanding undergraduate research and the [**Captain Jonathan Fay Prize**](https://www.radcliffe.harvard.edu/news-and-ideas/harvard-radcliffe-institute-awards-2025-fay-prizes-for-outstanding-theses-of-graduating-class), given to the top three theses across all disciplines at Harvard College.
+In the past, I have studied the **science and theory of generative models** and developed methods to enhance the **capabilities and safety of large language models**. I've had the privilege of collaborating with [Prof. Sitan Chen](https://sitanchen.com/) and [Prof. Seth Neel](https://sethneel.com/). Earlier this year, I graduated *summa cum laude* with highest honors from Harvard with a B.A. in Computer Science & Mathematics.
+
+My most recent project was on a unified theoretical framework for feature emergence in generative models (**ICML 2024; ICML 2025 oral**). In this work, we identified the mechanisms behind the emergence of high-level features, such as reasoning accuracy and toxicity, during the sampling trajectories of diffusion and large language models. This research, detailed in my [thesis](/files/thesis.pdf), was recognized with both the **Hoopes Prize** for outstanding undergraduate research and the [**Captain Jonathan Fay Prize**](https://www.radcliffe.harvard.edu/news-and-ideas/harvard-radcliffe-institute-awards-2025-fay-prizes-for-outstanding-theses-of-graduating-class), given to the top three theses across all disciplines at Harvard College.
 
 I love to chat with and meet new people. Please reach out at marvin[dot]fangzhou[dot]li[at]gmail.com.
-
 
 # Selected Publications  
 \* denotes equal contribution

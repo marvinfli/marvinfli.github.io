@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "Hi, my name is Marvin."
-author_profile: true
+author_profile: socials
+hide_author_avatar: false
 redirect_from: 
   - /about/
   - /about.html

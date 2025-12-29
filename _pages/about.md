@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an algo developer at Hudson River Trading, where I work on the scientific and engineering challenges of training foundation models for automated trading. 
+I'm an algo developer at Hudson River Trading, where I work on the scientific and engineering challenges of training foundation models for automated trading on HAIL (HRT AI Labs). 
 
 In the past, I have studied the **science and theory of generative models** and developed methods to enhance the **capabilities and safety of large language models**. I've had the privilege of collaborating with [Prof. Sitan Chen](https://sitanchen.com/) and [Prof. Seth Neel](https://sethneel.com/). Earlier this year, I graduated *summa cum laude* with highest honors from Harvard with a B.A. in Computer Science & Mathematics.
 

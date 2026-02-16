@@ -23,7 +23,7 @@ repository               : "marvinfli/marvinfli.github.io"
 author:
   # Biographic information
 
-  name             : "Marvin Li"
+  # name             : "Marvin Li"
   pronouns         : # example: "she/her"  
   bio              : "AI Researcher (Harvard '25)"
   location         : 

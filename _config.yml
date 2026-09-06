@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Marvin Li"
 title_separator          : "-"
 name                     : &name "Marvin Li"
-description              : &description "Hi, my name is Marvin Li"
+description              : &description "Marvin Li"
 url                      : https://marvinfli.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marvinfli/marvinfli.github.io"
@@ -25,14 +25,14 @@ author:
 
   # name             : "Marvin Li"
   pronouns         : # example: "she/her"  
-  bio              : "AI Researcher (Harvard '25)"
+  bio              : "Stanford CS PhD ('26-)"
   location         : 
   employer         : 
   uri              : # URL
   email            : "marvin.fangzhou.li@gmail.com" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=NhMTzpsAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=wV7SDW8AAAAJ"
 
   # Repositories and software development
   github           : "marvinfli"

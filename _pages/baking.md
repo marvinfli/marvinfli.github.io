@@ -1,9 +1,12 @@
 ---
 layout: single
-title: "Selection of Confections"
+title: "Collection of Confections"
 permalink: /baking/
 author_profile: true
 gallery:
+  - image_path: snickerdoodles.JPG
+    alt: "Snickerdoodles"
+    title: "Snickerdoodles"
   - image_path: lemon%20bar.png
     alt: "Lemon bars"
     title: "Fresh Lemon Bars"
@@ -19,4 +22,4 @@ gallery:
 ---
 
 
-{% include gallery caption="" %} 
+{% include gallery caption="" %}

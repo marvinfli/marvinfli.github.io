@@ -4,6 +4,9 @@ title: "Collection of Confections"
 permalink: /baking/
 author_profile: true
 gallery:
+  - image_path: yuzu_tart.JPG
+    alt: "Yuzu tart"
+    title: "Yuzu tart" 
   - image_path: snickerdoodles.JPG
     alt: "Snickerdoodles"
     title: "Snickerdoodles"

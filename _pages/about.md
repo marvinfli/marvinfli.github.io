@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year CS PhD at Stanford. Previously, I worked as an algorithm developer at Hudson River Trading’s HRT AI Labs (HAIL), training foundation models for automated trading. I graduated *summa cum laude* from Harvard in 2025 with a B.A. in CS and Math. In my undergraduate research, I was fortunate to be advised by [Prof. Sitan Chen](https://sitanchen.com/), [Prof. Seth Neel](https://sethneel.com/), and [Prof. Max Simchowitz](https://msimchowitz.github.io/).
+I'm a first-year CS PhD at Stanford. My work is supported by a Stanford School of Engineering and NSF Graduate Research Fellowship. Previously, I worked as an algorithm developer at Hudson River Trading’s HRT AI Labs (HAIL), training foundation models for automated trading. I graduated *summa cum laude* from Harvard in 2025 with a B.A. in CS and Math. In my undergraduate research, I was fortunate to be advised by [Prof. Sitan Chen](https://sitanchen.com/), [Prof. Seth Neel](https://sethneel.com/), and [Prof. Max Simchowitz](https://msimchowitz.github.io/).
 
 # Selected Publications  
 \* denotes equal contribution
